@@ -1,0 +1,28 @@
+{
+"status": true,
+"message": "",
+"siswa": {
+"id_pembayaran": "0001",
+"nama": "Damar Nurcahya",
+"alamat": "alamat",
+"kelas": "Kelas 1A",
+"sekolah": "SMPIT ABUBAKAR"
+},
+"total_tagihan": 1100000,
+"detail_tagihan": [
+{
+"tagihan_id": 34,
+"tagihan_bulan": "September",
+"tagihan_tahun_ajaran": "2019/2020",
+"tagihan_jenis": "SPP",
+"tagihan_nominal": 500000
+},
+{
+"tagihan_id": 38,
+"tagihan_bulan": "Oktober",
+"tagihan_tahun_ajaran": "2019/2020",
+"tagihan_jenis": "Uang Infaq",
+"tagihan_nominal": 600000
+}
+]
+}
